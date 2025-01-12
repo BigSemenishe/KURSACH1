@@ -1,0 +1,12 @@
+release/AddContactDialog.o
+release/DeleteContactDialog.o
+release/EditContactDialog.o
+release/PhoneBook.o
+release/SearchContactDialog.o
+release/main.o
+release/kursach2_plugin_import.o
+release/moc_AddContactDialog.o
+release/moc_DeleteContactDialog.o
+release/moc_EditContactDialog.o
+release/moc_PhoneBook.o
+release/moc_SearchContactDialog.o

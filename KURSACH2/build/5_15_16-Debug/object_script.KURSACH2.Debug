@@ -1,0 +1,12 @@
+debug/AddContactDialog.o
+debug/DeleteContactDialog.o
+debug/EditContactDialog.o
+debug/PhoneBook.o
+debug/SearchContactDialog.o
+debug/main.o
+debug/kursach2_plugin_import.o
+debug/moc_AddContactDialog.o
+debug/moc_DeleteContactDialog.o
+debug/moc_EditContactDialog.o
+debug/moc_PhoneBook.o
+debug/moc_SearchContactDialog.o
